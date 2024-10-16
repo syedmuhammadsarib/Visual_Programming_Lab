@@ -1,0 +1,28 @@
+C:\Users\cW\source\repos\Activity3\bin\Debug\net8.0\Activity3.exe
+C:\Users\cW\source\repos\Activity3\bin\Debug\net8.0\Activity3.deps.json
+C:\Users\cW\source\repos\Activity3\bin\Debug\net8.0\Activity3.runtimeconfig.json
+C:\Users\cW\source\repos\Activity3\bin\Debug\net8.0\Activity3.dll
+C:\Users\cW\source\repos\Activity3\bin\Debug\net8.0\Activity3.pdb
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\Activity3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\Activity3.AssemblyInfoInputs.cache
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\Activity3.AssemblyInfo.cs
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\Activity3.csproj.CoreCompileInputs.cache
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\Activity3.dll
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\refint\Activity3.dll
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\Activity3.pdb
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\Activity3.genruntimeconfig.cache
+C:\Users\cW\source\repos\Activity3\obj\Debug\net8.0\ref\Activity3.dll
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\bin\Debug\net8.0\Activity3.exe
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\bin\Debug\net8.0\Activity3.deps.json
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\bin\Debug\net8.0\Activity3.runtimeconfig.json
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\bin\Debug\net8.0\Activity3.dll
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\bin\Debug\net8.0\Activity3.pdb
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\Activity3.GeneratedMSBuildEditorConfig.editorconfig
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\Activity3.AssemblyInfoInputs.cache
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\Activity3.AssemblyInfo.cs
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\Activity3.csproj.CoreCompileInputs.cache
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\Activity3.dll
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\refint\Activity3.dll
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\Activity3.pdb
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\Activity3.genruntimeconfig.cache
+E:\University data\3rd Semester\Visual Programming\LAb task\Lab 5\Activities\Activity3\obj\Debug\net8.0\ref\Activity3.dll
