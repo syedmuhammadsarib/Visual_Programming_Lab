@@ -1,0 +1,10 @@
+C:\Users\cW\source\repos\Assignment02_233505\bin\Debug\Assignment02_233505.exe.config
+C:\Users\cW\source\repos\Assignment02_233505\bin\Debug\Assignment02_233505.exe
+C:\Users\cW\source\repos\Assignment02_233505\bin\Debug\Assignment02_233505.pdb
+C:\Users\cW\source\repos\Assignment02_233505\obj\Debug\Assignment02_233505.csproj.AssemblyReference.cache
+C:\Users\cW\source\repos\Assignment02_233505\obj\Debug\Assignment02_233505.Form1.resources
+C:\Users\cW\source\repos\Assignment02_233505\obj\Debug\Assignment02_233505.Properties.Resources.resources
+C:\Users\cW\source\repos\Assignment02_233505\obj\Debug\Assignment02_233505.csproj.GenerateResource.cache
+C:\Users\cW\source\repos\Assignment02_233505\obj\Debug\Assignment02_233505.csproj.CoreCompileInputs.cache
+C:\Users\cW\source\repos\Assignment02_233505\obj\Debug\Assignment02_233505.exe
+C:\Users\cW\source\repos\Assignment02_233505\obj\Debug\Assignment02_233505.pdb
