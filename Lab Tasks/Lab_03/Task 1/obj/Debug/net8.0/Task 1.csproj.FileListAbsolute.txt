@@ -1,0 +1,14 @@
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\bin\Debug\net8.0\Task 1.exe
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\bin\Debug\net8.0\Task 1.deps.json
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\bin\Debug\net8.0\Task 1.runtimeconfig.json
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\bin\Debug\net8.0\Task 1.dll
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\bin\Debug\net8.0\Task 1.pdb
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfoInputs.cache
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfo.cs
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\Task 1.csproj.CoreCompileInputs.cache
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\Task 1.dll
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\refint\Task 1.dll
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\Task 1.pdb
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\Task 1.genruntimeconfig.cache
+E:\University data\3rd Semester\Visual Programming\LAb task\LAB 3\Task 1\obj\Debug\net8.0\ref\Task 1.dll
