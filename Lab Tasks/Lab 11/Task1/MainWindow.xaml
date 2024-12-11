@@ -1,0 +1,28 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="Syed M.Sarib" Height="450" Width="850">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Black" BorderThickness="10" Margin="10">
+            <StackPanel Orientation="Horizontal" Background="BlanchedAlmond">
+                <Border BorderBrush="Black" BorderThickness="5" Margin="20">
+                    <Image Width="auto" Source="E:\Live Wallpapers\Shah_Rukn_e_Alam_by_M_Ali_Mir_03.jpg" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="2" Margin="20">
+                    <Image Width="200" Source="C:\Users\cW\Desktop\pngegg.png" VerticalAlignment="Top"/>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="2" Margin="20">
+                    <Image Width="auto" Source="E:\Live Wallpapers\IMG20211124165932-enhanced.png" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+                </Border>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
