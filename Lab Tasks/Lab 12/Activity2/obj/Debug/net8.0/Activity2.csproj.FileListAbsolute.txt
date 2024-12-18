@@ -1,0 +1,14 @@
+C:\Users\cW\source\repos\Activity2\bin\Debug\net8.0\Activity2.exe
+C:\Users\cW\source\repos\Activity2\bin\Debug\net8.0\Activity2.deps.json
+C:\Users\cW\source\repos\Activity2\bin\Debug\net8.0\Activity2.runtimeconfig.json
+C:\Users\cW\source\repos\Activity2\bin\Debug\net8.0\Activity2.dll
+C:\Users\cW\source\repos\Activity2\bin\Debug\net8.0\Activity2.pdb
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfoInputs.cache
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfo.cs
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\Activity2.dll
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\refint\Activity2.dll
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\Activity2.pdb
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\Activity2.genruntimeconfig.cache
+C:\Users\cW\source\repos\Activity2\obj\Debug\net8.0\ref\Activity2.dll
